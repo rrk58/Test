@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource_Settings type="service">
+  <Resource_Element>
+    <Main_Resource_ID>723503627</Main_Resource_ID>
+    <Main_Resource_Name>File Watcher</Main_Resource_Name>
+    <Default_Resource>File Watcher_1</Default_Resource>
+    <Main_Resource_Defintion>
+      <Resource_Type_ID>1</Resource_Type_ID>
+      <Resource_Type_Name>File Watcher_1</Resource_Type_Name>
+      <Resource_Type_Description />
+      <Resource_Properties>
+        <ID>1</ID>
+        <Name>File Watcher Resource</Name>
+        <ExpressionValue>File Watcher_1</ExpressionValue>
+        <DisplaySequenceID>1</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>2</ID>
+        <Name>RS_Type_HelpKey</Name>
+        <ExpressionValue>File_Watcher_Services.htm</ExpressionValue>
+        <DisplaySequenceID>2</DisplaySequenceID>
+      </Resource_Properties>
+    </Main_Resource_Defintion>
+  </Resource_Element>
+</Resource_Settings>

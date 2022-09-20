@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource_Settings type="resource">
+  <Resource_Element>
+    <Main_Resource_ID>723503627</Main_Resource_ID>
+    <Main_Resource_Name>File Watcher</Main_Resource_Name>
+    <Default_Resource>File Watcher_1</Default_Resource>
+    <Main_Resource_Defintion>
+      <Resource_Type_ID>1</Resource_Type_ID>
+      <Resource_Type_Name>File Watcher_1</Resource_Type_Name>
+      <Resource_Type_Description />
+      <Resource_Properties>
+        <ID>1</ID>
+        <Name>Local Agent</Name>
+        <ExpressionValue>'FALSE'LOG</ExpressionValue>
+        <DisplaySequenceID>1</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>2</ID>
+        <Name>LA Name</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>2</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>3</ID>
+        <Name>Server</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>5</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>23</ID>
+        <Name>Source Directory</Name>
+        <ExpressionValue>1</ExpressionValue>
+        <DisplaySequenceID>4</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>5</ID>
+        <Name>User</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>11</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>14</ID>
+        <Name>Enable server validation</Name>
+        <ExpressionValue>'TRUE'LOG</ExpressionValue>
+        <DisplaySequenceID>7</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>15</ID>
+        <Name>Validate against</Name>
+        <ExpressionValue>2</ExpressionValue>
+        <DisplaySequenceID>8</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>16</ID>
+        <Name>Server validation file</Name>
+        <DisplaySequenceID>9</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>4</ID>
+        <Name>Protocol</Name>
+        <ExpressionValue>1</ExpressionValue>
+        <DisplaySequenceID>6</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>17</ID>
+        <Name>Client authentication</Name>
+        <ExpressionValue>1</ExpressionValue>
+        <DisplaySequenceID>10</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>12</ID>
+        <Name>Delay Between Login Retries</Name>
+        <ExpressionValue>10</ExpressionValue>
+        <DisplaySequenceID>20</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>6</ID>
+        <Name>Password</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>12</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>7</ID>
+        <Name>Encoding</Name>
+        <ExpressionValue>ISO_8859_1</ExpressionValue>
+        <DisplaySequenceID>15</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>8</ID>
+        <Name>Local Name</Name>
+        <ExpressionValue>en_US</ExpressionValue>
+        <DisplaySequenceID>16</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>9</ID>
+        <Name>Timeout in Milliseconds</Name>
+        <ExpressionValue>0</ExpressionValue>
+        <DisplaySequenceID>17</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>10</ID>
+        <Name>Connect Mode</Name>
+        <ExpressionValue>1</ExpressionValue>
+        <DisplaySequenceID>18</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>11</ID>
+        <Name>Number of Login Retries</Name>
+        <ExpressionValue>6</ExpressionValue>
+        <DisplaySequenceID>19</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>13</ID>
+        <Name>Use Secured FTP</Name>
+        <ExpressionValue>'FALSE'LOG</ExpressionValue>
+        <DisplaySequenceID>21</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>18</ID>
+        <Name>Server Certificate Validation</Name>
+        <ExpressionValue>'FALSE'LOG</ExpressionValue>
+        <DisplaySequenceID>22</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>19</ID>
+        <Name>Server Certificate File</Name>
+        <DisplaySequenceID>23</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>20</ID>
+        <Name>Use Client Certificate</Name>
+        <ExpressionValue>'FALSE'LOG</ExpressionValue>
+        <DisplaySequenceID>24</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>21</ID>
+        <Name>Client Certificate File</Name>
+        <DisplaySequenceID>25</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>22</ID>
+        <Name>Client Certificate Password</Name>
+        <DisplaySequenceID>26</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>24</ID>
+        <Name>RS_Type_HelpKey</Name>
+        <ExpressionValue>File_Watcher_Resource.htm</ExpressionValue>
+        <DisplaySequenceID>27</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>25</ID>
+        <Name>Client private key file path</Name>
+        <DisplaySequenceID>13</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>26</ID>
+        <Name>Client private key Pass Phrase</Name>
+        <DisplaySequenceID>14</DisplaySequenceID>
+      </Resource_Properties>
+    </Main_Resource_Defintion>
+  </Resource_Element>
+</Resource_Settings>

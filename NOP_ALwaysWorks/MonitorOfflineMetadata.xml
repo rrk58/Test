@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectData projectKey="549166f0-129b-4e51-98d1-48d65cfe8b39">
+  <BusinessProcess>
+    <ID>1</ID>
+    <Name>Business Process-1</Name>
+    <Flow>
+      <ID>1</ID>
+      <Name>Flow-1</Name>
+      <Step>
+        <ID>1</ID>
+        <Name>NOP</Name>
+      </Step>
+    </Flow>
+  </BusinessProcess>
+</ProjectData>
